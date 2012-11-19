@@ -51,5 +51,5 @@ vi:
       not_found: không tìm thấy
       not_locked: không bị khóa
       not_saved:
-        one: ! '1 lỗi bị cấm %{resource} khi lưu:'
-        other: ! '%{count} lỗi bị cấm %{resource} khi lưu:'
+        one: ! 'Có 1 lỗi:'
+        other: ! 'Có  %{count} lỗi:'
